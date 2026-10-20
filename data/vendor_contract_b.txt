@@ -1,0 +1,19 @@
+Master Services Agreement — Cascade Analytics LLC.
+
+Section 4: Term and Termination
+
+This Agreement shall remain in effect for an initial term of 12 months from the Effective Date, renewing
+automatically for successive 12-month terms unless either party gives 30 days notice of non-renewal. Either
+party may terminate for convenience with 60 days written notice. In the event of a material breach, the
+non-breaching party may terminate immediately upon written notice, provided the breaching party is given a
+30-day cure period after notice of breach.
+
+Section 5: Payment Terms
+
+Client shall pay all invoices within 30 days of receipt. Late payments accrue interest at 2% per month.
+Vendor may suspend services if an invoice remains unpaid for more than 45 days.
+
+Section 6: Liability Cap
+
+Vendor's total liability under this Agreement shall not exceed two times the total fees paid by Client in the
+preceding 12 months.

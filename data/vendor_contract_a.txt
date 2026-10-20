@@ -1,0 +1,18 @@
+Vendor Services Agreement — Northwind Logistics Inc.
+
+Section 4: Term and Termination
+
+This Agreement shall remain in effect for an initial term of 24 months from the Effective Date. Either party
+may terminate this Agreement for convenience with 90 days written notice. In the event of a material breach,
+the non-breaching party may terminate immediately upon written notice, provided the breaching party is given
+a 15-day cure period after notice of breach.
+
+Section 5: Payment Terms
+
+Client shall pay all invoices within 45 days of receipt. Late payments accrue interest at 1.5% per month.
+Vendor may suspend services if an invoice remains unpaid for more than 60 days.
+
+Section 6: Liability Cap
+
+Vendor's total liability under this Agreement shall not exceed the total fees paid by Client in the preceding
+12 months.

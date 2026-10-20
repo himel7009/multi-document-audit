@@ -1,0 +1,25 @@
+Acme Corp Employee Handbook — Excerpt
+
+Section 1: Onboarding
+
+All new employees must complete onboarding within their first two weeks of employment. Onboarding consists
+of three parts: IT setup, HR paperwork, and a 30-minute meeting with their assigned manager. New hires are
+given a company laptop on day one and must complete security training within five business days.
+
+Section 2: Remote Work Policy
+
+Employees may work remotely up to three days per week, subject to manager approval. Fully remote arrangements
+require VP-level sign-off and are reviewed every six months. Employees working remotely must be reachable
+during core hours, defined as 10am to 4pm in their local time zone.
+
+Section 3: Expense Reimbursement
+
+Employees may submit expense reports for business-related travel, client meals, and approved software
+subscriptions. Reimbursement requests must be submitted within 30 days of the expense and include an itemized
+receipt. Expenses over $500 require manager pre-approval before being incurred.
+
+Section 4: Performance Reviews
+
+Performance reviews occur twice per year, in June and December. Each review includes a self-assessment, a
+manager assessment, and peer feedback from at least two colleagues. Ratings range from "does not meet
+expectations" to "exceptional," and compensation changes are tied to review outcomes.
